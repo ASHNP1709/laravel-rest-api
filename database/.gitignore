@@ -1,0 +1,10 @@
+*.sqlite*
+/.idea
+/.vscode
+/node_modules
+/vendor
+/public/storage
+/storage/*.key
+/storage/*.log
+.env
+.env.*
